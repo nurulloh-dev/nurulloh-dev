@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 - Hi, I'm Nurulloh
 - 🌱 I’m currently learning Backend and Frontend development
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with creating educational apps
 - 📫 How to reach me: nurulloh.ub@gmail.com
