@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Hi, I'm Nurulloh
+- Hi, I'm Nurilloh
 - 🌱 I’m currently learning Backend and Frontend development
 - 🤔 I’m looking for help with creating educational apps
 - 📫 How to reach me: nurulloh.ub@gmail.com
